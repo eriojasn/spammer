@@ -331,7 +331,7 @@ namespace Spammer
             if (!string.IsNullOrEmpty(i))
             {
                 id = i;
-                email = id + "@accenture.com";
+                email = id + "@company.com";
             }
         }
 
